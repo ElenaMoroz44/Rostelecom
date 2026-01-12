@@ -39,7 +39,6 @@ pip install -r requirements.txt
 playwright install
 
 ## Запуск тестов
-
 1. Установить зависимости:
 ```bash
 pip install -r requirements.txt
