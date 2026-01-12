@@ -34,9 +34,9 @@
 - Playwright
 
 ## Запуск тестов
-1. Установить зависимости:
+
 ```bash
 pip install -r requirements.txt
 playwright install
-2. Запустить все UI-тесты:
+
 pytest -v
