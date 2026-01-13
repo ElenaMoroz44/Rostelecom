@@ -1,7 +1,7 @@
 from playwright.sync_api import Page
 
 class RegistrationPage:
-    URL = "https://b2c.passport.rt.ru/auth/realms/b2c/login-actions/registration"
+    URL = "https://b2c.passport.rt.ru/auth/realms/b2c/login-actions/registration?client_id=account_b2c&tab_id=dQVTcML7lQo"
 
     def __init__(self, page: Page):
         self.page = page
